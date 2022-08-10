@@ -7,3 +7,16 @@ This is despite aws stating that stack names absolutely can have this character.
 
  - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-console-create-stack-parameters.html
  - ![Screenshot of above link](./stackNameConventions.png)
+
+ &nbsp;
+
+## Get Started
+----
+
+### Requirements:
+ - Docker
+
+### Run tests
+
+1. Clone repo
+2. Run `./runTest.sh`
